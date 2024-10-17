@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GTKTemplate": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
