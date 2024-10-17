@@ -15,3 +15,4 @@ Add Glarea by GtkSharp and  render inside C++ code
    Copy all of .lib file into GtkSharpGlareaExample\GTKTemplate\bin\Debug\net7.0-windows7.0
 5. Run
      
+![Preview](https://github.com/JokerX08/GtkSharpGlareaExample/blob/main/Preview.png)
